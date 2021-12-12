@@ -5,8 +5,8 @@ This simple app will allow you to create a list of guests for any occasion. You 
 The Application is developed using java and the JDBC dependency and it is connected to a MySql database.
 
 Requisites:
-In order to run this Application on your device you will need to have installed:
--JVE (Java Virtual Environment)
+In order to run this Application on your device you will need to have installed:  
+-JVE (Java Virtual Environment)  
 -MySql
 
 The Application will ask you username and password in order to connect to your MySql.
